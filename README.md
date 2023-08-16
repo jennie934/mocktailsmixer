@@ -277,9 +277,8 @@ Use an X-ACTO knife to carefully cut a round hole in the center of the bottle ca
 ![](hardware/photos/014.jpg)
 
 ### Step 17: Drill hole for tube connectors
-Using a 0.15-inch diameter drill bit, drill two holes across from each other in the center of the lid. You can use an X-ACTO knife to deburr the edges around the hole.
-
-Remove any loose debris after drilling. These holes will be used to attach the tube connectors.
+How and why did we change the bottles........
+......
 
 ### Step 18: Attach Tube Connectors
 Apply two rubber washers to each of the tube connectors.
